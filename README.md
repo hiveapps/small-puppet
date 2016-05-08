@@ -1,1 +1,1 @@
-# small-puppet
+# hello-world
